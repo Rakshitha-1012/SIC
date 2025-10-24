@@ -1,0 +1,6 @@
+2025-10-24 22:26:27,960 INFO: Binance Testnet client initialized.
+2025-10-24 22:26:28,148 ERROR: Error placing market order: APIError(code=-2014): API-key format invalid.
+2025-10-24 22:33:56,342 INFO: Initialized Mock Trading Bot.
+2025-10-24 22:33:56,343 INFO: [SIMULATED] Market Order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.01, 'timestamp': '2025-10-24 22:33:56.343714'}
+2025-10-24 22:34:49,752 INFO: Initialized Mock Trading Bot.
+2025-10-24 22:34:49,752 INFO: [SIMULATED] Limit Order: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT', 'quantity': 0.01, 'price': 30000.0, 'timestamp': '2025-10-24 22:34:49.752321'}
